@@ -12,6 +12,8 @@ tags:
 
 ### Edited Transcript of Singapore's National Statement, Delivered by Minister for Foreign Affairs Dr. Vivan Balakrishnaan at the high-level UN Conference to support the implementation of Sustainable Development Goal 14, 8 June 2017 at 1545 HRS 
 
+
+
 Mr President,
 
 Excellencies,
