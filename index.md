@@ -9,3 +9,5 @@ I am an Urban Studies major with an Anthropology minor. For awhile I sought to f
 
 Besides that, I'm a film enthusiast (especially French New Wave), a ballroom dancer and a lover (and baker) of lemon
 meringue pies. 
+
+Click 'posts' to look at my past work. Click 'projects' for an overview of projects I am currently working on. 
