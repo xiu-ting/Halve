@@ -1,24 +1,24 @@
 ---
 layout: post
-title: "Ministry of Foreign Affairs: Speech Writing
+title: "Ministry of Foreign Affairs: Speech Writing"
 categories:
   - Markdown
 tags:
-  - css
-  - html
-  - title
+  - writing
 ---
-The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2018. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. 
+
+  The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2018. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. 
 
 
-# EDITED TRANSCRIPT OF SINGAPORE’S NATIONAL STATEMENT, DELIVERED BY MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN AT THE HIGH-LEVEL UN CONFERENCE TO SUPPORT THE IMPLEMENTATION OF SUSTAINABLE DEVELOPMENT GOAL 14, 8 JUNE 2017 AT 1545 HRS
+### Edited Transcript of Singapore's National Statement, Delivered by Minister for Foreign Affairs Dr. Vivan Balakrishnaan at the high-level UN Conference to support the implementation of Sustainable Development Goal 14, 8 June 2017 at 1545 HRS 
+
+
 
 Mr President,
 
 Excellencies,
 
 Distinguished delegates,
-
  
 
 1.       It is an honour to address this Conference on behalf of the tiny island city state of Singapore.  It has been two years since the United Nations adopted the 2030 Agenda for Sustainable Development and I think it is time for us to take stock of the progress that we have made on the conservation and sustainable use of the oceans, seas and marine resources.
