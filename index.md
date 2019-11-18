@@ -1,10 +1,11 @@
 ---
 layout: home
 ---
-# About Theme
+# About Me
 
-This theme is Jekyll port of [vangeltzo.com](http://vangeltzo.com/) (by [Vangelis Tzortzis](https://github.com/srekoble)).
+I am a third year student at Yale-NUS College currently on study abroad at Barnard College of Columbia University. I am taking classes in Urban Policy and Leadership as well as Computer Science. 
 
-To learn how to install and use this theme check out the [installation guide](http://taylantatli.me/Halve/halve-theme/) for more information.
+I am an Urban Studies major with an Anthropology minor. For awhile I sought to find a word to describe my diverse interests and experiences. That word is innovation. Whether looking at diplomacy and public policy in the public sector, working at the frontier of FinTech at start-ups, or strategy management, I always seek innovation. To innovate does not always mean change, it sometimes can mean reinvigorating.
 
-If you have a question, find a bug, or just want to say hi, please open an [issue on GitHub](https://github.com/TaylanTatli/Halve/issues/new).
+Besides that, I'm a film enthusiast (especially French New Wave), a ballroom dancer and a lover (and baker) of lemon
+meringue pies. 
