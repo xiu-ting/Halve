@@ -1,6 +1,6 @@
 # Site
-title: Halve
-description: Stylish, Two-Column Jekyll Theme
+title: Xiu Ting
+description: an online space for selected works 
 url: https://xiu-ting.github.io
 logo: halve.png                                       # Site logo
 locale: en_US
@@ -31,13 +31,13 @@ sass:
 # Social Links
 email:             xiuting.f@gmail.com
 #google.plus:        username
-twitter:            username
+#twitter:            username
 #facebook:           username
 github:             xiu-ting
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-linkedin:          linkedin.com/in/foongxiuting
+linkedin:          foongxiuting
 #xing:              username
-#instagram:          username
+instagram:          xiu.ting
 #lastfm:            username
 #tumblr:            username
 #pinterest:         username
