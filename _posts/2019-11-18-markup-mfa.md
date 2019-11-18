@@ -4,7 +4,6 @@ title: "Ministry of Foreign Affairs: Speech Writing"
 categories:
   - Markdown
 tags:
-  - post
   - writing
 ---
 
