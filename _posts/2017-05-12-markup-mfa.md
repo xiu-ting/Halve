@@ -7,7 +7,7 @@ tags:
   - writing
 ---
 
-  The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2018. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. 
+  The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2017. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. 
 
 
 ### Edited Transcript of Singapore's National Statement, Delivered by Minister for Foreign Affairs Dr. Vivan Balakrishnaan at the high-level UN Conference to support the implementation of Sustainable Development Goal 14, 8 June 2017 at 1545 HRS 
