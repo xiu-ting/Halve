@@ -11,7 +11,7 @@ tags:
   The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2018. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. 
 
 
-### EDITED TRANSCRIPT OF SINGAPORE’S NATIONAL STATEMENT, DELIVERED BY MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN AT THE HIGH-LEVEL UN CONFERENCE TO SUPPORT THE IMPLEMENTATION OF SUSTAINABLE DEVELOPMENT GOAL 14, 8 JUNE 2017 AT 1545 HRS
+**EDITED TRANSCRIPT OF SINGAPORE’S NATIONAL STATEMENT, DELIVERED BY MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN AT THE HIGH-LEVEL UN CONFERENCE TO SUPPORT THE IMPLEMENTATION OF SUSTAINABLE DEVELOPMENT GOAL 14, 8 JUNE 2017 AT 1545 HRS
 
 Mr President,
 
