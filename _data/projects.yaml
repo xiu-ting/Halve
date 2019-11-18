@@ -1,19 +1,12 @@
-- title: Halve Jekyll Theme
-  url: http://taylantatli.me/Halve
-  image: http://taylantatli.me/Halve/images/halve-home-image.png
-  completed: false
-
 - title: Ministry of Foreign Affairs
   layout: post
   categories: 
     - Markdown
    tags: 
     - writing
+   completed: true
     
-    The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2018. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. 
-
-
-# EDITED TRANSCRIPT OF SINGAPORE’S NATIONAL STATEMENT, DELIVERED BY MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN AT THE HIGH-LEVEL UN CONFERENCE TO SUPPORT THE IMPLEMENTATION OF SUSTAINABLE DEVELOPMENT GOAL 14, 8 JUNE 2017 AT 1545 HRS
+    The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2018. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. # EDITED TRANSCRIPT OF SINGAPORE’S NATIONAL STATEMENT, DELIVERED BY MINISTER FOR FOREIGN AFFAIRS DR VIVIAN BALAKRISHNAN AT THE HIGH-LEVEL UN CONFERENCE TO SUPPORT THE IMPLEMENTATION OF SUSTAINABLE DEVELOPMENT GOAL 14, 8 JUNE 2017 AT 1545 HRS
 
 Mr President,
 
@@ -23,13 +16,13 @@ Distinguished delegates,
 
  
 
- It is an honour to address this Conference on behalf of the tiny island city state of Singapore.  It has been two years since the United Nations adopted the 2030 Agenda for Sustainable Development and I think it is time for us to take stock of the progress that we have made on the conservation and sustainable use of the oceans, seas and marine resourcesFor a small city state like Singapore, the oceans and seas are inextricably linked to our survival and our wellbeing.  The oceans provide livelihood for millions of our people, enable food security, enable maritime trade, regulate the climate, and are an important source of renewable energy.  But we all know that our oceans face existential threats including overfishing, climate change and marine pollution.
+It is an honour to address this Conference on behalf of the tiny island city state of Singapore.  It has been two years since the United Nations adopted the 2030 Agenda for Sustainable Development and I think it is time for us to take stock of the progress that we have made on the conservation and sustainable use of the oceans, seas and marine resourcesFor a small city state like Singapore, the oceans and seas are inextricably linked to our survival and our wellbeing.  The oceans provide livelihood for millions of our people, enable food security, enable maritime trade, regulate the climate, and are an important source of renewable energy.  But we all know that our oceans face existential threats including overfishing, climate change and marine pollution.
 
-3.       These are serious issues that confront Singapore and our fellow small island developing states.  We have no buffer, we have no hinterlands.  Any increase in sea-levels, coastal degradation or marine pollution will impact all of us severely.  For this reason, Singapore made a small voluntary contribution to the Conference Trust Fund in order to enable other small island developing states to be represented at this Conference; to ensure that our voices are heard.
+These are serious issues that confront Singapore and our fellow small island developing states.  We have no buffer, we have no hinterlands.  Any increase in sea-levels, coastal degradation or marine pollution will impact all of us severely.  For this reason, Singapore made a small voluntary contribution to the Conference Trust Fund in order to enable other small island developing states to be represented at this Conference; to ensure that our voices are heard.
 
-Call for Action
+##Call for Action
 
-4.       I would like to congratulate all the delegations for working so hard and so well together to conclude the Call for Action.  Singapore is privileged to have worked with Portugal to facilitate the negotiations on the outcome document.  The Call for Action demonstrates our collective determination to conserve and to sustainably use our oceans and seas.
+I would like to congratulate all the delegations for working so hard and so well together to conclude the Call for Action.  Singapore is privileged to have worked with Portugal to facilitate the negotiations on the outcome document.  The Call for Action demonstrates our collective determination to conserve and to sustainably use our oceans and seas.
 
 Sustainable Use of the Oceans
 
