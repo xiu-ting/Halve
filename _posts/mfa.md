@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ministry of Foreign Affairs: Speech Writing
+title: "Ministry of Foreign Affairs: Speech Writing"
 categories:
   - Markdown
 tags:
@@ -8,6 +8,7 @@ tags:
   - html
   - title
 ---
+
 The below transcript was taken from the publicly available Ministry of Foreign Affairs website. I interned at the ministry from April-May 2018. One of my duties was to do preliminary research for the speech Minister of Foreign Affairs Dr. Vivan Balakrishnan was to deliver at the United Nations OCEANS conference. I worked through 3 drafts with various stakeholders within the ministry. 
 
 
