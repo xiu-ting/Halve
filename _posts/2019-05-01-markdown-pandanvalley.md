@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Building Biography: Pandan Valley"
+image: images/pandanvalley.JPG
 categories:
   - Markup
 tags:
