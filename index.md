@@ -3,7 +3,7 @@ layout: home
 ---
 # About Me
 
-Hello! I am a third year student at Yale-NUS College currently on study abroad at Barnard College of Columbia University. I am an Urban Studies major with an Anthropology minor who seeks to be a innovative and analytical storyteller. Sometimes people tell me that seems..."contradictory"- I disagree and my work speaks for my effort to constantly refine my craft. 
+Hello! I am a third year student at Yale-NUS College currently on study abroad at Barnard College of Columbia University. I am an Urban Studies major with an Anthropology minor who seeks to be a innovative and analytical storyteller. Maybe that's not the first pair of words that comes to mind with storytelling but my work speaks of my effort to constantly refine my craft through different mediums: writing, design, audio work, film and photography.  
 
 Besides that, I'm a film enthusiast (especially French New Wave), a ballroom dancer and a lover (and baker) of lemon
 meringue pies. 
