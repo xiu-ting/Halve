@@ -12,7 +12,7 @@ meringue pies.
 
 Click 'posts' to look at my past work. Click 'projects' for an overview of projects I am currently working on. 
 
-** All photos taken by me unless otherwise stated. 
+**All photos taken by me unless otherwise stated. 
 
 
 <a href="https://drive.google.com/file/d/1wO68hhR4RRBzlZaUowC0oSGsqbGfVbIm/view?usp=sharing" class="btn_success">My Resume</a>
