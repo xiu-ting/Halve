@@ -5,6 +5,10 @@
   
 - title: Protoype of Fabric Sample Tracker for KidsClothes label 
   url: https://www.andyandevan.com/pages/about-us
-  image: https://cdn.shopify.com/s/files/1/0674/9611/files/Amit_s_Image_3_240x240.jpg?v=1559833352
+  image: images/Wireframe.jpg
+  completed: false
+  
+- title: Podcast on Urban Schools and Segregation 
+  image: images/school.jpg
   completed: false
   
