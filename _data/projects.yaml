@@ -5,7 +5,8 @@
   
 - title: Protoype Fabric Sample Tracker for 'KidsClothes'  
   image: images/Wireframe.jpg
-  completed: false
+  completed: true
+  url: https://www.figma.com/proto/HufrjqRy2iXzbDvxhoJXN5/Fabric-Sample-Tracker?node-id=1%3A3&scaling=scale-down
 
 - title: Mao Shan Wang (SGIFF film)
   image: https://www.straitstimes.com/sites/default/files/styles/xxx_large/public/st_20161116_j16msw_2742889.jpg?itok=mfAZr34e&timestamp=1479231662
