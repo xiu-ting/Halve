@@ -3,13 +3,11 @@ layout: home
 ---
 # About Me
 
-Hello! I am a third year student at Yale-NUS College currently on study abroad at Barnard College of Columbia University. I am an Urban Studies major with an Anthropology minor who seeks to be an innovative and analytical storyteller. Maybe that's not the first pair of words that comes to mind with storytelling but my work speaks of my effort to constantly refine my craft through different mediums: writing, design, audio work, film and photography.  
+urban x tech x design
+
+I am a third year student at Yale-NUS College just back from study abroad at Barnard College of Columbia University. I am taking classes in Urban Policy and Leadership as well as Computer Science. This summer I wil be joining Dell Technologies as a User Experience (UX) Intern under the Experience Innovation Group. 
+
+As an Urban Studies major with an Anthropology minor, I sought to find a word to describe my diverse interests and experiences. That word is innovation. Whether looking at diplomacy and public policy in the public sector, working at the frontier of FinTech at start-ups, or strategy management, I always seek innovation. To innovate does not always mean change, it sometimes can mean reinvigorating.
 
 Besides that, I'm a film enthusiast (especially French New Wave), a ballroom dancer and a lover (and baker) of lemon
 meringue pies. 
-
-Click 'posts' to look at some of my past work. Click 'projects' for an overview of projects I am currently working on. 
-
-##### All photos taken by me unless otherwise stated. 
-
-<a href="https://drive.google.com/file/d/1wO68hhR4RRBzlZaUowC0oSGsqbGfVbIm/view?usp=sharing" class="btn_success">My Resume</a>
