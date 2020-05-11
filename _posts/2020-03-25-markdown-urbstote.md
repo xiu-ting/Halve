@@ -9,7 +9,7 @@ tags:
   - urban studies
 ---
 
-!(../master/images/bagtote.jpg)
+!(../master/images/tote.jpg)
 !(../master/images/tote2.jpg)
 
 
