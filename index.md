@@ -4,7 +4,7 @@ layout: home
 # About Me
 urban x tech x design
 
-I am a third year student at Yale-NUS College just back from study abroad at Barnard College of Columbia University. I am taking classes in Urban Transformation and Leadership as well as CS. This summer I wil be joining Dell Technologies as a User Experience (UX) Intern under the Experience Innovation Group. 
+I am a final year student at Yale-NUS College back from study abroad at Barnard College of Columbia University. I am taking classes in Urban Transformation and Leadership as well as CS. This summer I was at Dell Technologies as a User Experience (UX) Intern under the Experience Innovation Group. 
 
 As an Urban Studies major with an Anthropology minor, my diverse interests have given me the opportunity to grow into a quick learning and highly adaptable individual that is self-driven. My experiences ranging from start-up to big tech are testament to my search for innovation in interconnected fields and my goal to bring unique perspectives to every question.
 
