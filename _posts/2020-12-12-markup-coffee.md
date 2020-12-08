@@ -1,3 +1,12 @@
+---
+layout: post
+title: "Cold Brew Coffee Guide"
+categories:
+  - Markup
+tags:
+  - coffee
+  - personal
+---
 # Xiu Ting's Cold Brew Guide
 
 Hello, and welcome to my very unnecessary guide to cold brew. I will include links of other guides I have read but otherwise everything else is my own strange experimentation...so no guarantees. I am by no means a professional coffee human being but this has been a source of solace and sanity amidst completing college during a global pandemic. 
